@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mani3-debug
-- 👀 I’m interested in ...python ,java,
-- 🌱 I’m currently learning ...python, java
-- 💞️ I’m looking to collaborate on ...machine learning,data science
+- 👋 Hi, I’m @mani_kumar
+- 👀 I’m interested to learn GIT & DEVOPS
+- 💞️ I’m looking to collaborate on ...AWS &devOps 
 - 📫 How to reach me ...
 
 <!---
